@@ -24,7 +24,9 @@ cd xnetdeltav24
 ```bash
 bash install.sh
 ```
-jika terdapat tulisan **replace install.sh? [y]es, [n]o, [A]ll, [N]one, [r]ename:** maka isi dengan **Y**
+jika terdapat tulisan:
+**replace install.sh? [y]es, [n]o, [A]ll, [N]one, [r]ename:** 
+maka isi dengan **Y**
 # Bahasa yang digunakan
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)]()
