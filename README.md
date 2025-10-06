@@ -16,7 +16,7 @@ JANGAN SALAHGUNAKAN TOOLS INI UNTUK BERBUAT JAHAT DAN ILEGAL, GUNAKAN DENGAN BIJ
 ```bash
 git clone https://github.com/NekomonHub/xnetdeltav24
 ```
-**Akses folder***
+**Akses folder**
 ```bash
 cd xnetdeltav24
 ```
@@ -24,3 +24,4 @@ cd xnetdeltav24
 ```bash
 bash install.sh
 ```
+# Bahasa yang digunakan
