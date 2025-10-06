@@ -12,3 +12,15 @@ JANGAN SALAHGUNAKAN TOOLS INI UNTUK BERBUAT JAHAT DAN ILEGAL, GUNAKAN DENGAN BIJ
 - 500kb/s
 
 # Cara Install
+**Clone repositori**
+```bash
+git clone https://github.com/NekomonHub/xnetdeltav24
+```
+**Akses folder***
+```bash
+cd xnetdeltav24
+```
+**Jalankan Script dan Instal PKG**
+```bash
+bash install.sh
+```
