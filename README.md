@@ -1,2 +1,3 @@
-# xnetdeltav24
-Powerfull Network Attack
+# XnetDelta V24
+**Fitur baru di Versi 24!***
+
